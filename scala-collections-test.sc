@@ -7,6 +7,7 @@ l1 contains 3
 l1.sum
 
 // create an Array of odd numbers from 1 to 15
+Range(1,15,2)
 val arr = Array.range(1,15,2)
 
 // find unique elements of List(2,3,1,4,5,6,6,1,2)
