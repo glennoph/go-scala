@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ef9bcb2-fe4d-468f-a5bf-938504200a08" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/scala-flow-control.sc" afterDir="false" />
+    <list default="true" id="6ef9bcb2-fe4d-468f-a5bf-938504200a08" name="Default" comment="add collections, flow control">
+      <change afterPath="$PROJECT_DIR$/scala-functions.sc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala-collections-test.sc" beforeDir="false" afterPath="$PROJECT_DIR$/scala-collections-test.sc" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -42,11 +41,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="scala-flow-control.sc" pinned="false" current-in-tab="true">
+      <file leaf-file-name="scala-flow-control.sc" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scala-flow-control.sc">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="252">
               <caret line="18" column="50" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scala-functions.sc" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scala-functions.sc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="157">
+              <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -89,6 +97,7 @@
         <option value="$PROJECT_DIR$/scala-sets.sc" />
         <option value="$PROJECT_DIR$/scala-collections-test.sc" />
         <option value="$PROJECT_DIR$/scala-flow-control.sc" />
+        <option value="$PROJECT_DIR$/scala-functions.sc" />
       </list>
     </option>
   </component>
@@ -245,6 +254,14 @@
       <option name="presentableId" value="Default" />
       <updated>1525627370760</updated>
     </task>
+    <task id="LOCAL-00001" summary="add collections, flow control">
+      <created>1525633958455</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1525633958455</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -253,7 +270,7 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" />
+      <window_info active="true" anchor="bottom" id="Messages" order="7" visible="true" weight="0.3298292" />
       <window_info anchor="right" id="sbt" order="3" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
@@ -265,7 +282,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25308195" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25308195" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -284,6 +301,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add collections, flow control" />
+    <option name="LAST_COMMIT_MESSAGE" value="add collections, flow control" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/scala-basics.sc">
@@ -346,6 +367,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="18" column="50" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scala-functions.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
         </state>
       </provider>
     </entry>
